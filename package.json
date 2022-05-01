@@ -1,0 +1,27 @@
+{
+  "name": "curso-typescript",
+  "version": "1.0.0",
+  "description": "Curso typeScript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoSilva09/Curso-TypeScript.git"
+  },
+  "keywords": [
+    "typescript",
+    "node"
+  ],
+  "author": "Eduardo Silva Feitosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoSilva09/Curso-TypeScript/issues"
+  },
+  "homepage": "https://github.com/EduardoSilva09/Curso-TypeScript#readme"
+}
