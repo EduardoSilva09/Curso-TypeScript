@@ -1,5 +1,5 @@
 const objetoA: {
-  chaveA: string;
+  readonly chaveA: string;
   chaveB: string;
   chaveC?: string; // chave nulable
   [key: string]: unknown; //poder extender a classe
@@ -8,7 +8,7 @@ const objetoA: {
   chaveB: 'B',
 };
 
-objetoA.chaveA = 'outro valor';
+objetoA.chaveB = 'outro valor';
 
 //não inserir novas chaves num tipo após definido
 objetoA.chaveC = 'Nova chave';
