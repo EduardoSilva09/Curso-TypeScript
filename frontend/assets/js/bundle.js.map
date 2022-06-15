@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;;AAAa;AACb","sources":["webpack://curso-typescript/./src/Aula18-webcack/index.ts"],"sourcesContent":["\"use strict\";\r\nconsole.log('Olá mundo!');\r\n"],"names":[],"sourceRoot":""}
